@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Choose the Right Tax Credit Recovery in Los Angeles",
+  "description": "How to Choose the Right Tax Credit Recovery in Los Angeles\n\nFICA Tip Calculator is your trusted Tax Credit Recovery and Specialty Financial Services provider. Specializes in recovering FICA Tax Credit",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research Tax Credit Recovery options in Los Angeles"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare Tax Credit Recovery providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact FICA Tip Calculator for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}
