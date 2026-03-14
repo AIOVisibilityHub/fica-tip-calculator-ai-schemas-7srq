@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tip Calculator - Closed Restaurant Tax Recovery",
+  "description": "Professional Closed Restaurant Tax Recovery services in Arizona. Specializes in recovering FICA Tax Credits for fine dining restaurants and high-ticket establishments. They offer an interactive calculator to estimate refunds and provide professional reviews for past and current tax credits.",
+  "url": "https://www.ficatipcalculator.com/",
+  "telephone": "6193563242",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Arizona"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Arizona"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Closed Restaurant Tax Recovery Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Closed Restaurant Tax Recovery"
+        }
+      }
+    ]
+  }
+}

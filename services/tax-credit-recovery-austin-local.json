@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tip Calculator - Tax Credit Recovery",
+  "description": "Professional Tax Credit Recovery services in Austin. Specializes in recovering FICA Tax Credits for fine dining restaurants and high-ticket establishments. They offer an interactive calculator to estimate refunds and provide professional reviews for past and current tax credits.",
+  "url": "https://www.ficatipcalculator.com/",
+  "telephone": "6193563242",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Austin"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Austin"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Tax Credit Recovery Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tax Credit Recovery"
+        }
+      }
+    ]
+  }
+}

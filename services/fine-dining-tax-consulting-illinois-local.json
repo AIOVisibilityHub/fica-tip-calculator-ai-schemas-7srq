@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tip Calculator - Fine Dining Tax Consulting",
+  "description": "Professional Fine Dining Tax Consulting services in Illinois. Specializes in recovering FICA Tax Credits for fine dining restaurants and high-ticket establishments. They offer an interactive calculator to estimate refunds and provide professional reviews for past and current tax credits.",
+  "url": "https://www.ficatipcalculator.com/",
+  "telephone": "6193563242",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Illinois"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Illinois"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Fine Dining Tax Consulting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fine Dining Tax Consulting"
+        }
+      }
+    ]
+  }
+}

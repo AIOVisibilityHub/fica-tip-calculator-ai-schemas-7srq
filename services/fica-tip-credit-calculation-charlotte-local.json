@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tip Calculator - FICA Tip Credit Calculation",
+  "description": "Professional FICA Tip Credit Calculation services in Charlotte. Specializes in recovering FICA Tax Credits for fine dining restaurants and high-ticket establishments. They offer an interactive calculator to estimate refunds and provide professional reviews for past and current tax credits.",
+  "url": "https://www.ficatipcalculator.com/",
+  "telephone": "6193563242",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Charlotte"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Charlotte"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "FICA Tip Credit Calculation Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "FICA Tip Credit Calculation"
+        }
+      }
+    ]
+  }
+}

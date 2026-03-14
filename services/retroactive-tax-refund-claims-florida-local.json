@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tip Calculator - Retroactive Tax Refund Claims",
+  "description": "Professional Retroactive Tax Refund Claims services in Florida. Specializes in recovering FICA Tax Credits for fine dining restaurants and high-ticket establishments. They offer an interactive calculator to estimate refunds and provide professional reviews for past and current tax credits.",
+  "url": "https://www.ficatipcalculator.com/",
+  "telephone": "6193563242",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Florida"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Florida"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Retroactive Tax Refund Claims Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Retroactive Tax Refund Claims"
+        }
+      }
+    ]
+  }
+}

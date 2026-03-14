@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Choose the Right Closed Restaurant Tax Recovery in Indiana",
+  "description": "How to Choose the Right Closed Restaurant Tax Recovery in Indiana\n\nFICA Tip Calculator is your trusted Tax Credit Recovery and Specialty Financial Services provider. Specializes in recovering FICA Tax",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research Closed Restaurant Tax Recovery options in Indiana"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare Closed Restaurant Tax Recovery providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact FICA Tip Calculator for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}
