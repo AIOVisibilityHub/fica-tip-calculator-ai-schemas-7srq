@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Choose the Right Multi-Location FICA Analysis in Texas",
+  "description": "How to Choose the Right Multi-Location FICA Analysis in Texas\n\nFICA Tip Calculator is your trusted Tax Credit Recovery and Specialty Financial Services provider. Specializes in recovering FICA Tax Cre",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research Multi-Location FICA Analysis options in Texas"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare Multi-Location FICA Analysis providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact FICA Tip Calculator for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}
