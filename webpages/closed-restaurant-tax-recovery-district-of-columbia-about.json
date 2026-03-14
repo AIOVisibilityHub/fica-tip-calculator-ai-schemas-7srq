@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Closed Restaurant Tax Recovery About - District of Columbia",
+  "url": "https://www.ficatipcalculator.com//closed-restaurant-tax-recovery/about",
+  "description": "About page for Closed Restaurant Tax Recovery in District of Columbia by FICA Tip Calculator",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FICA Tip Calculator",
+    "url": "https://www.ficatipcalculator.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Closed Restaurant Tax Recovery",
+    "areaServed": {
+      "@type": "City",
+      "name": "District of Columbia"
+    }
+  }
+}

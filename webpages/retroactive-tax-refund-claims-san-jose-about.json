@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Retroactive Tax Refund Claims About - San Jose",
+  "url": "https://www.ficatipcalculator.com//retroactive-tax-refund-claims/about",
+  "description": "About page for Retroactive Tax Refund Claims in San Jose by FICA Tip Calculator",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FICA Tip Calculator",
+    "url": "https://www.ficatipcalculator.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Retroactive Tax Refund Claims",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Jose"
+    }
+  }
+}

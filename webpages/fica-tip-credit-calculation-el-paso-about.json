@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "FICA Tip Credit Calculation About - El Paso",
+  "url": "https://www.ficatipcalculator.com//fica-tip-credit-calculation/about",
+  "description": "About page for FICA Tip Credit Calculation in El Paso by FICA Tip Calculator",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FICA Tip Calculator",
+    "url": "https://www.ficatipcalculator.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "FICA Tip Credit Calculation",
+    "areaServed": {
+      "@type": "City",
+      "name": "El Paso"
+    }
+  }
+}

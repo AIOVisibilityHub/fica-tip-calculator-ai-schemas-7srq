@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "FICA Tip Credit Calculation About - New York",
+  "url": "https://www.ficatipcalculator.com//fica-tip-credit-calculation/about",
+  "description": "About page for FICA Tip Credit Calculation in New York by FICA Tip Calculator",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FICA Tip Calculator",
+    "url": "https://www.ficatipcalculator.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "FICA Tip Credit Calculation",
+    "areaServed": {
+      "@type": "City",
+      "name": "New York"
+    }
+  }
+}

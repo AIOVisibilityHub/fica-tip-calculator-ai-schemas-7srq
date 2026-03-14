@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Multi-Location FICA Analysis About - Chicago",
+  "url": "https://www.ficatipcalculator.com//multi-location-fica-analysis/about",
+  "description": "About page for Multi-Location FICA Analysis in Chicago by FICA Tip Calculator",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FICA Tip Calculator",
+    "url": "https://www.ficatipcalculator.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Multi-Location FICA Analysis",
+    "areaServed": {
+      "@type": "City",
+      "name": "Chicago"
+    }
+  }
+}
